@@ -2,7 +2,7 @@ repo_name: piranna/jest-node-exports-resolver
 report_id: f30630fb709ed3940837a4f43229d090
 version: 0.1
 repo_type: Public
-timestamp: '2023-12-27T06:20:20+00:00'
+timestamp: '2024-01-05T08:15:14+00:00'
 requested_by: piranna
 provider: github
 branch: master
@@ -17,6 +17,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/piranna/jest-node-exports-resolver
   detection_source: Repo Metadata
 - name: Git
   description: Fast, scalable, distributed revision control system
@@ -26,6 +27,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/piranna/jest-node-exports-resolver
   detection_source: Repo Metadata
 - name: Prettier
   description: 'Prettier is an opinionated code formatter. '
@@ -49,6 +51,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Front End Package Manager
   image_url: https://img.stackshare.io/service/5848/44mC-kJ3.jpg
+  detection_source_url: https://github.com/piranna/jest-node-exports-resolver/blob/master/yarn.lock
   detection_source: yarn.lock
   last_updated_by: Gleb Kochergin
   last_updated_on: 2021-07-02 06:33:25.000000000 Z
@@ -60,6 +63,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Front End Package Manager
   image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/piranna/jest-node-exports-resolver/blob/master/package.json
   detection_source: package.json
   last_updated_by: Gleb Kochergin
   last_updated_on: 2021-07-02 06:33:25.000000000 Z
