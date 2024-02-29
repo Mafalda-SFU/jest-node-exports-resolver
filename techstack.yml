@@ -2,7 +2,7 @@ repo_name: piranna/jest-node-exports-resolver
 report_id: f30630fb709ed3940837a4f43229d090
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-05T08:15:14+00:00'
+timestamp: '2024-02-29T19:11:42+00:00'
 requested_by: piranna
 provider: github
 branch: master
@@ -30,7 +30,7 @@ tools:
   detection_source_url: https://github.com/piranna/jest-node-exports-resolver
   detection_source: Repo Metadata
 - name: Prettier
-  description: 'Prettier is an opinionated code formatter. '
+  description: Prettier is an opinionated code formatter.
   website_url: https://prettier.io/
   version: 2.5.1
   license: MIT
